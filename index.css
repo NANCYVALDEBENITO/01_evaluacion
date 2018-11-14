@@ -1,0 +1,11 @@
+
+.logo{
+	width: 200px;
+	float: left;
+}
+.background-image{
+	/*<a href="https://www.freepik.es/fotos-vectores-gratis/personas">Vector de personas creado por freepik - www.freepik.es</a>*/
+	background-image: url("images/background.png");
+
+
+}
